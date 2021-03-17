@@ -6,7 +6,7 @@
 
 
 ## :innocent: Motivation
-In the present scenario due to Covid-19, there is no efficient face mask detection applications which are now in high demand for transportation means, densely populated areas, residential districts, large-scale manufacturers and other enterprises to ensure safety. Also, the absence of large datasets of __‘with_mask’__ images has made this task more cumbersome and challenging. 
+In the present, along with the development of technology, solving equations or systems of equations are not the priority of schooling. However its still an elephant in the room for many students. So applying technology to help student dodge the bullet became essential.
 
 
 ## What I did??
@@ -16,11 +16,8 @@ In the present scenario due to Covid-19, there is no efficient face mask detecti
 - Using Flask to create web app
 
 ## :star: Features
-Our face mask detector didn't use any morphed masked images dataset. The model is accurate, and since we used the MobileNetV2 architecture, it’s also computationally efficient and thus making it easier to deploy the model to embedded systems (Raspberry Pi, Google Coral, etc.).
-
-This system can therefore be used in real-time applications which require face-mask detection for safety purposes due to the outbreak of Covid-19. This project can be integrated with embedded systems for application in airports, railway stations, offices, schools, and public places to ensure that public safety guidelines are followed.
-
-This system can detect and classify three types: masked, unmasked and incorrectly masked
+Our project not only solve the 1st order equations, it can solve the second order or many other kind of equation
+windows app is in progress...
 
 
 ## Preparation
