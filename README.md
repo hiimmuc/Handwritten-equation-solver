@@ -38,8 +38,11 @@ windows app is in progress...
 $ python3 webapp.py
 ```
 - get the https link and run it on browser
+![link on the last line](https://github.com/hiimmuc/Handwritten-equation-solver/blob/master/img.jpg)
+
 ## 4. Results
-![](result/1.png)
+![](https://github.com/hiimmuc/Handwritten-equation-solver/blob/master/img2.jpg)
+![](https://github.com/hiimmuc/Handwritten-equation-solver/blob/master/img3.jpg)
 
 ## :clap: And it's done!
 Feel free to mail me for any doubts/query 
