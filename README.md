@@ -12,7 +12,7 @@ In the present, along with the development of technology, solving equations or s
 ## What I did??
 - Training 2 yolov4 models to detect equations and characters in pictures
 - Training cnn model to classify those characters
-- Put all of it together to and using some libraries to some and format the result as HTML form
+- Put all of it together to and using some libraries to format the result as HTML form
 - Using Flask to create web app
 
 ## :star: Features
@@ -26,7 +26,7 @@ windows app is in progress...
 - Download weight file at https://drive.google.com/file/d/15NGlxNoybiPfOjey9ObV6O67HcaOgMlN/view?usp=sharing
 - Download darknet at https://github.com/AlexeyAB/darknet.git
 ## 2. Config
-- folow this tutorial https://blog.roboflow.com/training-yolov4-on-a-custom-dataset/
+- follow this tutorial https://blog.roboflow.com/training-yolov4-on-a-custom-dataset/
 - In file yolov4_training.cfg :
   - Change classes = 80 to classes = 1 at lines 970 1058 1146
   - change filters = 255 to filters = 18 at line 1139 1051 963
